@@ -1,0 +1,31 @@
+body{
+	border: solid 1px silver;
+	box-shadow: 7px 7px 5px silver;
+	width: 305px;
+	padding: 10px;
+}
+
+img{
+	width: 300px;
+	border: solid 1px silver;
+
+}
+
+#fact{
+	font-style: italic;
+}
+
+.bullet{
+	font-weight: bold;
+}
+
+#detail{
+	border: solid 1px silver;
+	width: 280px;
+	padding: 10px 10px 10px 10px;
+}
+
+li{
+	padding: 0;
+	margin: 0;
+}
